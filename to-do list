@@ -1,0 +1,4 @@
+//待做:
+//1.添加 todo-remove功能
+//2.添加 勾选框 标示已办/待办
+//阻碍: 无法设定todo item为对象,setList([...list, {content:inputValue, status:false}]);报错
